@@ -1,0 +1,14 @@
+{
+   "Topology": ["Boost","Buck", "Buck-Boost", "Flyback","LLC","DAB","Single-Phase-Inverter","Three-Phase-Inverter"],  
+   "Control": ["DCDC", "Motor-Drive", "Single-Phase-Inverter","Model-Based-Control"],
+   "Component": ["Capacitor", "Diode", "Fuse", "IGBT", "Resistor", "SiC", "Si-Mosfet"],
+   "EMI_EMC": ["EMC", "EMI-Filter-Design", "Grounding-Techniques", "Shielding"],
+   "ThermalManagement": ["HeatSink", "Thermal-Pad", "Liquid-Cooling", "Thermal-Interface-Material", "Fan-Cooling"],
+   "Communication": ["CAN", "TSN", "RS485", "UART", "SPI", "I2C", "Ethernet", "Wireless"],
+   "Simulation&EDA": ["PLECS", "LTspice", "MATLAB", "Altium", "Mentor", "Cadence", "Ansys", "Others"],
+   "Applications": ["Aviation", "UPS", "EV",  "Railway",  "Microgrid", "Telecon","Lighting"],
+   "OnlineResource":["Book","Academic-Courses","Supplier-Tool&Seminar"]
+    
+    
+    
+  }
