@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myWiki/static/css/main.c27695ec.css",
-    "main.js": "/myWiki/static/js/main.05d1ca5d.js",
+    "main.js": "/myWiki/static/js/main.c3d3253e.js",
     "static/js/453.6d7dc434.chunk.js": "/myWiki/static/js/453.6d7dc434.chunk.js",
     "static/media/Lightbulb.jpg": "/myWiki/static/media/Lightbulb.2c95a060d8521cc9ece4.jpg",
     "static/media/KaTeX_AMS-Regular.ttf": "/myWiki/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
@@ -66,11 +66,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/myWiki/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/myWiki/index.html",
     "main.c27695ec.css.map": "/myWiki/static/css/main.c27695ec.css.map",
-    "main.05d1ca5d.js.map": "/myWiki/static/js/main.05d1ca5d.js.map",
+    "main.c3d3253e.js.map": "/myWiki/static/js/main.c3d3253e.js.map",
     "453.6d7dc434.chunk.js.map": "/myWiki/static/js/453.6d7dc434.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c27695ec.css",
-    "static/js/main.05d1ca5d.js"
+    "static/js/main.c3d3253e.js"
   ]
 }
