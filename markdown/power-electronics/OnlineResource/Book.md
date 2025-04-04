@@ -6,9 +6,9 @@
    - By Robert W. Erickson & Dragan Maksimović
    - A classic textbook with clear explanations of converter topologies, modeling, and control.
 
- - ""Power Electronics: Converters, Applications, and Design"
-  - By Ned Mohan, Tore M. Undeland, William P. Robbins
-  - A classic textbook covering semiconductor devices, converters, and applications.
+ - "Power Electronics: Converters, Applications, and Design"
+    - By Ned Mohan, Tore M. Undeland, William P. Robbins
+    - A classic textbook covering semiconductor devices, converters, and applications.
   
 ## Motor Drive Books
  - "Electric Motor Drives: Modeling, Analysis, and Control"
