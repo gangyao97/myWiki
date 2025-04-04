@@ -1,5 +1,9 @@
 {
     "Algorithm": ["Sorting", "Graph"],
     "Data-science": ["Deep-learning", "LLM", "Machine-learning", "NLP"],
-    "Program-language": ["C","C++", "Java", "Python"]
+    "Program-language": ["C","C++", "Java", "Python"],
+    "Software-engineering": ["Design-patterns", "Testing", "Version-control"],
+    "IOT": ["Embedded-systems", "Sensors"],
+    "Book": ["book"]  
+    
   }
