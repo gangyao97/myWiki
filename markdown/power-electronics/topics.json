@@ -1,6 +1,6 @@
 {
    "Topology": ["Boost","Buck", "Buck-Boost", "Flyback","LLC","DAB","Single-Phase-Inverter","Three-Phase-Inverter"],  
-   "Control": ["DCDC", "Motor-Drive", "Single-Phase-Inverter","Model-Based-Control"],
+   "Control": ["DCDC", "Motor-Drive", "Single-Phase-Inverter","Model-Based-Control","Filter-Design"],
    "Component": ["Capacitor", "Diode", "Fuse", "IGBT", "Resistor", "SiC", "Si-Mosfet"],
    "EMI_EMC": ["EMC", "EMI-Filter-Design", "Grounding-Techniques", "Shielding"],
    "ThermalManagement": ["HeatSink", "Thermal-Pad", "Liquid-Cooling", "Thermal-Interface-Material", "Fan-Cooling"],
